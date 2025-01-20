@@ -40,7 +40,7 @@ const PaymentSnapshot = () => {
               <div className="p-4 bg-white">
                 <div className="overflow-x-auto">
                   {" "}
-                  {/* Make the table scrollable on smaller screens */}
+                  {/* Makng/ the table scrollable on smaller screens */}
                   <table className="min-w-full border-collapse text-left">
                     <thead>
                       <tr>
